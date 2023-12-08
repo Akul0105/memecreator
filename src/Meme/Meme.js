@@ -26,7 +26,7 @@ export const Meme = () => {
               shuffleMemes(_memes); //call function shuffle memes
             setMemes(_memes);
 
-            //fetch memes from api
+            //fetch memes from apii
           
           }
             ));
