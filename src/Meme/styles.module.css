@@ -1,6 +1,13 @@
 .container {
     margin-top: 50px;
   }
+  .bgImage {
+    background-image: url("meme-bg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
   .skip {
     background-color: #f0ad4e;
   }
